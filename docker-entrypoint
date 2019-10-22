@@ -1,0 +1,4 @@
+#!/bin/sh
+
+phpcs --standard=Magento2 app/design/frontend/Xigen
+phpcs --standard=Magento2 app/code/Xigen
